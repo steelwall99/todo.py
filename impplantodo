@@ -1,0 +1,8 @@
+Implementation plan.
+
+The task is to create an improved task tracking application in python.
+My requirements will be formatted in a list of now particular priority, but are,
+the app needs to be able to list items, edit items, mark items are complete, And
+delete items from the to do list.
+I will own the code, and will update periodically via github.
+Changes will be applied via github commits.
